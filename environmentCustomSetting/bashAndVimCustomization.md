@@ -38,7 +38,7 @@ syntax on
 - Save and exit & restart vim: **:wq**
 
 #### 4. Customizing Bash Profile
-- Open bash configuration file ```vim ~/bash_profile
+- Open bash configuration file ```vim ~/.bash_profile```
 - Insert these lines
 ``` shell
 # Coloring folder/directory different from file
